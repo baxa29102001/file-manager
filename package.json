@@ -1,0 +1,15 @@
+{
+  "name": "filemanager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/baxa29102001/file-manager.git",
+  "author": "rb2193",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js --username=bohodir"
+  },
+  "bin": {
+    "file": "index.js"
+  },
+  "type": "module"
+}
